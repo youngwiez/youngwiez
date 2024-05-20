@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Linkedin-Muhammad Raka Andra Wisesa-0077B5?style=for-the-badge&logo=Linkedin">
   </a>
   <a href="mailto:rakaawisesa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rakaawisesa@gmail.com-C71610?style=for-the-badge&logo=Linkedin">
+    <img src="https://img.shields.io/badge/Gmail-rakaawisesa@gmail.com-C71610?style=for-the-badge&logo=Gmail">
   </a>
 </div>
 
