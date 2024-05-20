@@ -8,15 +8,21 @@
 
 <div>
   <h2>Find me on</h2>
-  <a href="https://instagram.com/rakandrw">
-    <img src="https://img.shields.io/badge/Instagram-rakandrw-CD486B?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/raka-wisesa">
-    <img src="https://img.shields.io/badge/Linkedin-Muhammad Raka Andra Wisesa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="mailto:rakaawisesa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rakaawisesa@gmail.com-C71610?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
+  <div id="instagram">
+    <a href="https://instagram.com/rakandrw">
+      <img src="https://img.shields.io/badge/Instagram-rakandrw-CD486B?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+  </div>
+  <div id="linkedin">
+    <a href="https://linkedin.com/in/raka-wisesa">
+      <img src="https://img.shields.io/badge/Linkedin-Muhammad Raka Andra Wisesa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+    </a>
+  </div>
+  <div id="gmail">
+    <a href="mailto:rakaawisesa@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-rakaawisesa@gmail.com-C71610?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+  </div>
 </div>
 
 <!---
