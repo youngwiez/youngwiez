@@ -6,16 +6,12 @@
 <hr>
 
 <div>
-  <ul>
-    <li>📚 I’m currently learning ...</li>
-    <li>📫 How to reach me ...</li>
-  </ul> 
-</div>
-
-<div>
   <h2>Find me on</h2>
   <a href="https://instagram.com/rakandrw">
     <img src="https://img.shields.io/badge/Instagram-rakandrw-E4405F?style=for-the-badge&logo=Instagram">
+  </a>
+  <a href="https://linkedin.com/in/raka-wisesa">
+    <img src="https://img.shields.io/badge/Linkedin-Muhammad Raka Andra Wisesa-E4405F?style=for-the-badge&logo=Linkedin">
   </a>
 </div>
 
