@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=youngwiez.youngwiez" />
 
 <h1>Hello, I'm Raka 👋</h1>
+<h3>Junior Full-stack Developer | Junior Network Engineer</h3>
 <h4><i>"All good mottos is my motto"</i></h4>
 
 <hr>
