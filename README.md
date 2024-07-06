@@ -2,7 +2,11 @@
 
 <h1>Hello, I'm Raka 👋</h1>
 <h3>Junior Full-stack Developer | Junior Network Engineer</h3>
-<h4><i>"All good mottos is my motto"</i></h4>
+
+<hr>
+
+<p>Currently interning as a Quality Engineer in the Information and Communication Technology unit at one of the tractor companies in Indonesia.</p>
+<h4><i>"Do It While You Can"</i></h4>
 
 <hr>
 
@@ -15,7 +19,7 @@
   </div>
   <div id="linkedin">
     <a href="https://linkedin.com/in/raka-wisesa">
-      <img src="https://img.shields.io/badge/Linkedin-Muhammad Raka Andra Wisesa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/Linkedin-Raka Wisesa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
     </a>
   </div>
   <div id="gmail">
