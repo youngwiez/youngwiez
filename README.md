@@ -18,7 +18,7 @@
     </a>
   </div>
   <div id="linkedin">
-    <a href="https://linkedin.com/in/raka-wisesa">
+    <a href="https://linkedin.com/in/rakawisesa">
       <img src="https://img.shields.io/badge/Linkedin-Raka Wisesa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
     </a>
   </div>
